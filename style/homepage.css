@@ -1,0 +1,91 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+
+  color: black;
+  max-width: 600px;
+}
+h1 {
+  font-size: 42px;
+}
+h1,
+h2 {
+  font-weight: 300;
+}
+h2 {
+  font-size: 14px;
+}
+i {
+  color: gray;
+}
+
+.tempType {
+  font-size: 20px;
+}
+.headerDate {
+  font-size: 16px;
+  font-weight: 200;
+}
+.card {
+  background: #fff;
+
+  margin: 20px;
+  display: in-line block;
+  min-width: 150px;
+}
+.textBox {
+  font-weight: 200;
+  border: #6e88a1;
+  border-style: inset;
+  border-radius: 10px;
+  padding: 5px;
+  border-width: 1px;
+}
+.search {
+  font-weight: 400;
+  border: #6e88a1;
+  border-style: inset;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 0 0 0 7px;
+  background: rgb(59, 67, 66);
+  color: #fff;
+}
+.dailyWeather {
+  text-align: center;
+  font-weight: 300;
+  background: #fff;
+  font-size: 16px;
+  border: 1px;
+}
+.weatherIcon {
+  text-align: center;
+  font-weight: 100;
+  font-size: 32px;
+}
+.highTemp {
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+}
+.lowTemp {
+  font-weight: 200;
+}
+.current {
+  background: rgb(103, 121, 126);
+  font-weight: 400;
+  border: #697682;
+  border-style: inset;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px 0 0 0;
+  color: #fff;
+}
+#display-temp {
+  font-size: 32px;
+}
+#description {
+  font-style: italic;
+}

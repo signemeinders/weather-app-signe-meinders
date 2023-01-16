@@ -83,6 +83,9 @@ i {
   margin: 10px 0 0 0;
   color: #fff;
 }
+.gitSource {
+  font-size: 12px;
+}
 #display-temp {
   font-size: 32px;
 }
